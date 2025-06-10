@@ -18,53 +18,11 @@ demo_data.csv: Demographics & medical‐consult indicators, including age, gende
 
 Participant‐Level Summaries: Grouped day_data by participant (SEQN), computing per‐person mean/σ for key metrics across ~6 917 individuals:
 
-Metric
+| Metric  | Header 2 | Header 3 |
+| -------- | -------- | -------- |
+| Row 1A   | Row 1B   | Row 1C   |
+| Row 2A   | Row 2B   | Row 2C   |
 
-μ
-
-σ
-
-Notes
-
-Total minutes (PAXTMD)
-
-1 271.8
-
-65.9
-
-≈ 21.2 h/day wear
-
-Valid minutes (PAXVMD)
-
-1 269.9
-
-70.3
-
-Minimal QC flags
-
-MIMS triaxial sum (PAXMTSD)
-
-11 342
-
-4 170
-
-Daily movement magnitude
-
-Wake wear (PAXWWMD)
-
-701.0
-
-168.4
-
-≈ 11.7 h/day awake
-
-Sleep wear (PAXSWMD)
-
-381.8
-
-118.3
-
-≈ 6.4 h/day sleep
 
 **Wear‐Time Patterns:**
 
