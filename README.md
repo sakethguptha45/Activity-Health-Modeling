@@ -18,10 +18,10 @@ demo_data.csv: Demographics & medical‐consult indicators, including age, gende
 
 Participant‐Level Summaries: Grouped day_data by participant (SEQN), computing per‐person mean/σ for key metrics across ~6 917 individuals:
 
-| Metric  | Header 2 | Header 3 |
-| -------- | -------- | -------- |
-| Row 1A   | Row 1B   | Row 1C   |
-| Row 2A   | Row 2B   | Row 2C   |
+|         Metric         |    μ     |    σ     |  Notes  |
+| ---------------------  | -------- | -------- | ------- |
+| Total minutes (PAXTMD) | Row 1B   | Row 1C   |         |
+| Valid minutes (PAXVMD) | Row 2B   | Row 2C   |         |
 
 
 **Wear‐Time Patterns:**
